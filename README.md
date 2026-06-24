@@ -5,9 +5,8 @@ Kit para implementar agentes de **Value Iteration** e **Q-Learning** e testar em
 
 ## Alunos 
 GUILHERME MERLINI DE SOUZA - 342474
+
 VICTOR DE SOUZA ARNT   - 291097
-
-
 ---
 
 ### Conteúdo do repositório
